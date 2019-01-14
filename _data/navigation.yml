@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "Projects"
+    url: /projects/    
+        
+  - title: "Publications"
+    url: /publications/
+
+  # - title: "Blog"
+  #   url: /year-archive/
+
+  - title: "Code"
+    url: /code/
+
+  - title: "CV"
+    url: /cv/
+
+  # - title: "Hobbies"
+  #   url: /hobbies/
+    
+  # - title: "Guide"
+  #   url: /markdown/
