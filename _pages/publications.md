@@ -7,24 +7,24 @@ author_profile: false
 ## Thesis
 Wire Detection, Reconstruction, and Avoidance for Unmanned Aerial Vehicles   
 Committee: Prof. Sebastian Scherer, Prof. Michael Kaess, Sankalp Arora   
-[PDF](https://www.ri.cmu.edu/wp-content/uploads/2018/08/cmu_thesis-1.pdf), [Defense Video](https://youtu.be/hcBduruWLp8), [Slides](https://docs.google.com/presentation/d/1U0Kb8G4NeIRWEB-_JExFZJwF_xmySf0iUt6d9S42jQ4/edit?usp=sharing)
+[PDF](https://www.ri.cmu.edu/publications/wire-detection-reconstruction-andavoidance-for-unmanned-aerial-vehicles/), [Defense Video](https://youtu.be/hcBduruWLp8), [Slides](https://docs.google.com/presentation/d/1U0Kb8G4NeIRWEB-_JExFZJwF_xmySf0iUt6d9S42jQ4/edit?usp=sharing)
 
 ## Conferences
 <span style="color:DarkBlue">Multi-view Reconstruction of Wires using a Catenary Model</span><br/>
 **Ratnesh Madaan**, Michael Kaess, Sebastian Scherer. _accepted, ICRA 2019_<br/>
-PDF not available yet. Please check [thesis chapter](https://www.ri.cmu.edu/wp-content/uploads/2018/08/cmu_thesis-1.pdf#page=37) or talk for overview.  
+[PDF](https://www.ri.cmu.edu/publications/multi-view-reconstruction-of-wires-using-a-catenary-model-2/).    
 <!-- [Talk](https://docs.google.com/presentation/d/1--Bvnd6JmxWq_eVvl22UfwIu8ZPyoctebes3UFvlIvQ/edit?usp=sharing),  -->
 <!-- [Code]() -->
 
 <span style="color:DarkBlue">DROAN - Disparity-space Representation for Obstacle AvoidaNce : Enabling Wire Mapping & Avoidance</span><br/>
 Geetesh Dubey, **Ratnesh Madaan**, Sebastian Scherer. _IROS 2018_.<br/>
-[PDF](https://www.ri.cmu.edu/wp-content/uploads/2018/08/IROS18_1856_FI.pdf), 
+[PDF](https://www.ri.cmu.edu/publications/droan-disparity-space-representation-for-obstacle-avoidance-enabling-wire-mapping-avoidance/), 
 [Video](https://www.youtube.com/watch?v=9VABb6Lc7B8&)
 
 <span style="color:DarkBlue">Wire Detection using Synthetic Data and Dilated Convolutional Networks for Unmanned Aerial Vehicles</span><br/>
 **Ratnesh Madaan**, Daniel Maturana, Sebastian Scherer. _IROS 2017_.<br/>
 <span style="color:red">Finalist, Best Application Paper</span><br/>
-[PDF](https://www.ri.cmu.edu/wp-content/uploads/2017/08/root.pdf),
+[PDF](https://www.ri.cmu.edu/publications/wire-detection-using-synthetic-data-and-dilated-convolutional-networks-for-unmanned-aerial-vehicles/),
 [Project Page](https://madratman.github.io/wire_detection_iros_2017/),<br/>
 Code :[Pytorch Training Pipeline](), 
 [ROS Node for running onboard](),
