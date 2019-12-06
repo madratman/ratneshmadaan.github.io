@@ -11,7 +11,7 @@ Committee: Prof. Sebastian Scherer, Prof. Michael Kaess, Sankalp Arora
 
 ## Conferences
 <span style="color:DarkBlue">Multi-view Reconstruction of Wires using a Catenary Model</span><br/>
-**Ratnesh Madaan**, Michael Kaess, Sebastian Scherer. ICRA 2019_<br/>
+**Ratnesh Madaan**, Michael Kaess, Sebastian Scherer. ICRA 2019<br/>
 [PDF](https://www.ri.cmu.edu/publications/multi-view-reconstruction-of-wires-using-a-catenary-model-2/).    
 <!-- [Talk](https://docs.google.com/presentation/d/1--Bvnd6JmxWq_eVvl22UfwIu8ZPyoctebes3UFvlIvQ/edit?usp=sharing),  -->
 <!-- [Code]() -->
