@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am working as a Research Engineer with the Microsoft AirSim team at Bellevue, WA.    
-Most recently, I helped organize Game of Drones, a drone racing competition at NeurIPS 2019 built on AirSim.   
-Read our [MSR blog post](https://www.microsoft.com/en-us/research/blog/game-of-drones-at-neurips-2019-simulation-based-drone-racing-competition-built-on-airsim/?OCID=msr_blog_gameofdrones_neurips_fb) for an overview.   
-And [head to the competition website](https://microsoft.github.io/AirSim-NeurIPS2019-Drone-Racing/index.html) for things GoD. 
+I am working as a Research Engineer with the [Microsoft AirSim](https://github.com/microsoft/airsim/) team.    
 
 Before that, I was a Masters in Robotics student at Carnegie Mellon University, working on perception and motion planning algorithms for quadrotors at the [Air Lab](theairlab.org) at the [Robotics Institute](https://www.ri.cmu.edu), advised by [Sebastian Scherer](https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/) and working closely with [Michael Kaess](http://frc.ri.cmu.edu/~kaess/). 
-Current focuses of my research are thin obstacle detection and mapping for UAVs, and marrying traditional sampling based motion planning algorithms with machine learning. 
+There, I focused on thin obstacle detection and mapping for UAVs, and marrying traditional sampling based motion planning algorithms with machine learning. 
+
+
+### (Not Fake) News
+- 2019.12: I helped organize [Game of Drones, a drone racing competition at NeurIPS 2019](https://microsoft.github.io/AirSim-NeurIPS2019-Drone-Racing/index.html) built on AirSim.
+Read our [MSR blog post](https://www.microsoft.com/en-us/research/blog/game-of-drones-at-neurips-2019-simulation-based-drone-racing-competition-built-on-airsim/?OCID=msr_blog_gameofdrones_neurips_fb) for a quick overview. 
+- 2019.09: Check out [our pre-print](https://arxiv.org/abs/1909.06993) and [video](https://www.youtube.com/watch?v=aSugOL0qI44&feature=youtu.be) on learning cross-modal representations and imitation learning, applied on the drone racing problem. Work done with our summer research intern, Rogerio Bonatti. 
+
 <!-- Apart from that, I've worked on a few [projects](https://ratneshmadaan.github.io/projects/).  -->
 
 <!-- Prior to this, I worked as an Research Associate I in the Air Lab for a cumulative of 6 months in 2015-2016.
