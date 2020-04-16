@@ -15,6 +15,8 @@ During times when I am tired of being a wannabe in robotics, I tend to come back
 These include [biking](https://www.strava.com/athletes/4053560), [reading](https://www.goodreads.com/user/show/20408058-ratnesh-madaan) (totally not adding books to my to-read list), playing the guitar pretentiously, [sketching](http://madratman.deviantart.com/gallery), and writing. 
 
 ### (Not Fake) News 
+- 2020-03: A pre-print for [AirSim Drone Racing Lab](https://arxiv.org/abs/2003.05654) is now available. We used our framework in the [Game of Drones competition](https://github.com/microsoft/AirSim-NeurIPS2019-Drone-Racing) at NeurIPS 2019. 
+- 2020-03: An updated version of our pre-print, [Learning Visuomotor Policies for Aerial Navigation Using Cross-Modal Representations](https://arxiv.org/abs/1909.06993) is now available. See this [blog post](https://www.microsoft.com/en-us/research/blog/training-deep-control-policies-for-the-real-world/) for an overview. 
 - 2019-12: I helped organize [Game of Drones, a drone racing competition at NeurIPS 2019](https://microsoft.github.io/AirSim-NeurIPS2019-Drone-Racing/index.html) built on AirSim.
 Read our [MSR blog post](https://www.microsoft.com/en-us/research/blog/game-of-drones-at-neurips-2019-simulation-based-drone-racing-competition-built-on-airsim/?OCID=msr_blog_gameofdrones_neurips_fb) for a quick overview. 
 - 2019-09: Check out our [pre-print](https://arxiv.org/abs/1909.06993) and [video](https://www.youtube.com/watch?v=aSugOL0qI44&feature=youtu.be) on learning cross-modal representations for imitation learning, applied to the drone racing problem. Work done with our summer research intern, Rogerio Bonatti. 
